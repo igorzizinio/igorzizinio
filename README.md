@@ -1,6 +1,6 @@
 ## Welcome to my profile
 
-👋 Howdy! I'm Igor, a Software Engineer from Brazil. Ever since I was a kid, I've been passionate about computers and technology. I love building software, exploring new tools, and constantly learning.
+👋 Howdy! I'm Igor, a small Programmer from Brazil. Ever since I was a kid, I've been passionate about computers and technology. I love building software, exploring new tools, and constantly learning.
 
 ---
 
