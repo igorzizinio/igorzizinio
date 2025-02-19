@@ -55,7 +55,7 @@
 </table>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=igorzizinio&theme=transparent&border=FFFFFF&fire=539BF5&ring=539BF5&currStreakLabel=539BF5">
+<img src="https://streak-stats.demolab.com/?user=igorzizinio&theme=transparent&border=FFFFFF&fire=539BF5&ring=539BF5&currStreakLabel=539BF5" alt="GitHub Streak">
 </div>
 
 
