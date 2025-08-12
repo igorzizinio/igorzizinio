@@ -25,6 +25,12 @@
 ![Next.js](https://img.shields.io/badge/next.js-3A3A3A?style=for-the-badge&logo=next.js)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-3A3A3A?style=for-the-badge&logo=tailwindcss)
 
+## 💻 Backend Development
+
+![Express](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express)
+![NestJS](https://img.shields.io/badge/nestjs-black?style=for-the-badge&logo=nestjs)
+![NestJS](https://img.shields.io/badge/nodejs-black?style=for-the-badge&logo=nodedotjs)
+
 ## 📱 Mobile Development
 
 ![React Native](https://img.shields.io/badge/react_native-3A3A3A?style=for-the-badge&logo=react)
