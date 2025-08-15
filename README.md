@@ -1,7 +1,13 @@
 <h1 align="center">Welcome to my profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 
-👋 Howdy! I'm Igor, a small Programmer from Brazil. Ever since I was a kid, I've been passionate about computers and technology. I love building software, exploring new tools, and constantly learning.
+👋 Howdy! I'm Igor, a small Programmer from Brazil.
+
+- Ever since I was a kid, I've been passionate about computers and technology.
+
+- I love building software, exploring new tools, and constantly learning.
+
+- Currently working as a developer at [Remofer](https://www.remoferdobrasil.com.br/)
 
 
 # 🛠 Tools & Languages
