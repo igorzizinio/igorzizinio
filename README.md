@@ -12,7 +12,7 @@
 
 # 🛠 Tools & Languages
 
-> Editors and languages that I use or am currently learning.
+Editors and languages that I use or am currently learning.
 
 ## 🔧 Tools
 
