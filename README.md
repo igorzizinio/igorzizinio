@@ -10,6 +10,12 @@
 - Currently working as a developer at [Remofer](https://www.remoferdobrasil.com.br/)
 
 
+## OS
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+
+
 # 🛠 Tools & Languages
 
 Editors and languages that I use or am currently learning.
@@ -19,10 +25,11 @@ Editors and languages that I use or am currently learning.
 ![VSCode](https://img.shields.io/badge/vscode-blue?style=for-the-badge&logo=visualstudiocode)
 ![IntelliJ](https://img.shields.io/badge/intellij-blueviolet?style=for-the-badge&logo=intellijidea)
 ![Neovim](https://img.shields.io/badge/neovim-3A3A3A?style=for-the-badge&logo=neovim)
-![Zed](https://img.shields.io/badge/zed-black?style=for-the-badge&logo=zedindustries)
 
+![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
 ## 🎨 Frontend Development
@@ -36,6 +43,8 @@ Editors and languages that I use or am currently learning.
 ![Express](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express)
 ![NestJS](https://img.shields.io/badge/nestjs-black?style=for-the-badge&logo=nestjs)
 ![NestJS](https://img.shields.io/badge/nodejs-black?style=for-the-badge&logo=nodedotjs)
+![Prisma](https://img.shields.io/badge/prisma-black?style=for-the-badge&logo=prisma&logoColor=white)
+
 
 ## 📱 Mobile Development
 
@@ -49,8 +58,11 @@ Editors and languages that I use or am currently learning.
 ![TypeScript Badge](https://img.shields.io/badge/Typescript-4269f5?style=for-the-badge&logo=typescript&logoColor=white)
 ![Kotlin Badge](https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Rust Badge](https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![C# Badge](https://img.shields.io/badge/C%23-168600?style=for-the-badge&logo=csharp&logoColor=white)
 
+## 🔍 Currently Learning
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
 # 📊 GitHub Statistics
@@ -69,6 +81,7 @@ Editors and languages that I use or am currently learning.
 <div align="center">
 <img src="https://streak-stats.demolab.com/?user=igorzizinio&theme=transparent&border=FFFFFF&fire=539BF5&ring=539BF5&currStreakLabel=539BF5" alt="GitHub Streak">
 </div>
+
 
 
 ## 📫 Contact  
