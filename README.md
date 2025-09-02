@@ -12,7 +12,7 @@
 
 ## 🖥️ OS
 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Windows](https://img.shields.io/badge/🪟%20windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-green?style=for-the-badge&logo=android&logoColor=white)
 
@@ -31,6 +31,7 @@ Editors and languages that I use or am currently learning.
 ![PostgreSQL](https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 
 ## 🎨 Frontend Development
@@ -38,6 +39,7 @@ Editors and languages that I use or am currently learning.
 ![React](https://img.shields.io/badge/react-3A3A3A?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/next.js-3A3A3A?style=for-the-badge&logo=next.js)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-3A3A3A?style=for-the-badge&logo=tailwindcss)
+![Electron](https://img.shields.io/badge/electron-3A3A3A?style=for-the-badge&logo=electron)
 
 ## 💻 Backend Development
 
