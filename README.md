@@ -63,6 +63,8 @@ Editors and languages that I use or am currently learning.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
+
+
 ## 📊 GitHub Statistics
 
 <table>
@@ -84,11 +86,14 @@ Editors and languages that I use or am currently learning.
   </tr>
 </table>
 
-
-
-
-
 ## 📫 Contact  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/igor-schug-zizinio) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igorschug6@gmail.com)
+
+
+<a href="https://www.buymeacoffee.com/igorunderplayer" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 45px; width: 162px;" >
+</a>
+
+
