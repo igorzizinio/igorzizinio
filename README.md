@@ -4,6 +4,14 @@
 
 - Currently working as a developer at [Remofer](https://www.remoferdobrasil.com.br/)
 
+## 🥺 Support me 👇
+
+If you like what I do, consider supporting me!
+
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-donate-FF5E5B?logo=ko-fi&logoColor=white&style=flat-square)](https://ko-fi.com/igorsz)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?logo=buy-me-a-coffee&logoColor=000000&style=flat-square)](https://www.buymeacoffee.com/igorunderplayer)
+
+
 
 ## 🖥️ Systems
 
@@ -64,7 +72,6 @@ Editors and languages that I use or am currently learning.
 
 
 
-
 ## 📊 GitHub Statistics
 
 <table>
@@ -92,8 +99,6 @@ Editors and languages that I use or am currently learning.
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igorschug6@gmail.com)
 
 
-<a href="https://www.buymeacoffee.com/igorunderplayer" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 45px; width: 162px;" >
-</a>
+
 
 
