@@ -95,7 +95,7 @@ Editors and languages that I use or am currently learning.
 
 ## 📫 Contact  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/igor-schug-zizinio) 
+[![LinkedIn](https://img.shields.io/badge/🇱%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/igor-schug-zizinio) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igorschug6@gmail.com)
 
 
