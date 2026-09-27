@@ -1,6 +1,7 @@
 <h1 align="center">Welcome to my profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
-👋 Howdy! I'm Igor — a passionate Software Engineering student from Brazil who loves building software, exploring new tools, and constantly learning.
+👋 Howdy! I'm Igor — a Software Engineering student from Brazil.
+I enjoy building backend systems, experimenting with game development, and learning how things work under the hood.
 
 
 ## 🥺 Support me 👇
@@ -25,10 +26,6 @@ Editors and languages that I use or am currently learning.
 
 ### 🔧 Tools
 
-![VSCode](https://img.shields.io/badge/vscode-blue?style=for-the-badge&logo=visualstudiocode)
-![IntelliJ](https://img.shields.io/badge/intellij-blueviolet?style=for-the-badge&logo=intellijidea)
-![Neovim](https://img.shields.io/badge/neovim-3A3A3A?style=for-the-badge&logo=neovim)
-
 ![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
@@ -49,6 +46,7 @@ Editors and languages that I use or am currently learning.
 ![NestJS](https://img.shields.io/badge/nestjs-black?style=for-the-badge&logo=nestjs)
 ![NodeJS](https://img.shields.io/badge/nodejs-black?style=for-the-badge&logo=nodedotjs)
 ![Prisma](https://img.shields.io/badge/prisma-black?style=for-the-badge&logo=prisma&logoColor=white)
+![Gin](https://img.shields.io/badge/gin-black?style=for-the-badge&logo=gin&logoColor=white)
 
 
 ### 📱 Mobile Development
@@ -62,14 +60,14 @@ Editors and languages that I use or am currently learning.
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript Badge](https://img.shields.io/badge/Typescript-4269f5?style=for-the-badge&logo=typescript&logoColor=white)
 ![Kotlin Badge](https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Go Badge](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Rust Badge](https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+
 
 ## 🔍 Currently Learning
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-
+![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-F34B7D?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ## 📊 GitHub Statistics
 
@@ -96,6 +94,7 @@ Editors and languages that I use or am currently learning.
 
 [![LinkedIn](https://img.shields.io/badge/🇱%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/igor-schug-zizinio) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igorschug6@gmail.com)
+
 
 
 
